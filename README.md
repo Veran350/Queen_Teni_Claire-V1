@@ -1,14 +1,14 @@
 # QUEEN TENI_CLAIRE 
 <p align="centre">
   <a href="QUEEN TENI_CLAIRE MD
-    <img alt="QUEEN TENI_CLAIRE" height="300" src="./lib/assets/pk.jpg" old_src=https://ibb.co/0BdcR1s
+    <img alt="QUEEN TENI_CLAIRE" height="300" src="./lib/assets/pk.jpg" old_src=https://imgur.com/a/JDltNMi
     </a>
 </p>
 
   <p align="center">
 
   <a aria-label="Join our chats" href="https://t.me/Tickic" target="_blank">
-<img src="https://ibb.co/0BdcR1s">
+<img src="https://imgur.com/a/JDltNMi">
 </a>
 
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=QUEEN+TENI_CLAIRE+WHATSAPP+BOT" alt="">
