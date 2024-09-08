@@ -59,13 +59,10 @@ href='https://github.com/Veran350/Queen_Teni_claire/fork' target="_blank"><img a
 ## Deploy.
  [![nima](https://img.shields.io/badge/TENI_CLAIRE_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/darkmakerofc/TENI_CLAIRE)
   
-[![nima](https://img.shields.io/badge/TENI_CLAIRE_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=QUEEN_TENI_CLAIRE)
    
 [![nima](https://img.shields.io/badge/TENI_CLAIRE_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
    
-[![nima](https://img.shields.io/badge/TENI_CLAIRE_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
 
-[![nima](https://img.shields.io/badge/TENI_CLAIRE_deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
 
 ## 🔗 Contact Links
 [![NIMAYT](https://img.shields.io/badge/FOLLOW%20TENICLAIRE%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/ybhee3)</br>
