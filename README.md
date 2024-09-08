@@ -57,7 +57,7 @@ href='https://github.com/Veran350/Queen_Teni_claire/fork' target="_blank"><img a
 
 
 ## Deploy.
- [![nima](https://img.shields.io/badge/TENI_CLAIRE_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/darkmakerofc/TENI_CLAIRE)
+ [![nima](https://img.shields.io/badge/TENI_CLAIRE_deploy_on_panel-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dash.navocloud.com/register?ref=5HPoxmWQ?template=https://github.com/darkmakerofc/TENI_CLAIRE)
   
    
 [![nima](https://img.shields.io/badge/TENI_CLAIRE_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
