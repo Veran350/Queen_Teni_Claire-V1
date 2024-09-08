@@ -1,18 +1,25 @@
 /**
  * Base By Siputzx
- * Created On 6/8/2024
+ * Created On 8/8/2024
  * Contact Me on wa.me/2347082664317
  * Supported By Gpt Assistant 
+ 
+ - Queen_Teni_Claire Is Black -
+ 
+ • Base Remaked By ziyo
+ • No Having Team For Ever
 */
 
 require('./config')
-const { default: makeWASocket, useMultiFileAuthState, DisconnectReason, fetchLatestBaileysVersion, makeInMemoryStore, jidDecode, proto, getContentType, downloadContentFromMessage, fetchLatestWaWebVersion } = require("@adiwajshing/baileys");
+const { default: makeWASocket, getAggregateVotesInPollMessage, useMultiFileAuthState, DisconnectReason, fetchLatestBaileysVersion, makeInMemoryStore, jidDecode, proto, getContentType, downloadContentFromMessage, fetchLatestWaWebVersion } = require("@adiwajshing/baileys");
 const fs = require("fs");
+const chalk = require("chalk")
+const cfont = require('cfonts')
 const pino = require("pino");
 const lolcatjs = require('lolcatjs')
 const path = require('path')
 const NodeCache = require("node-cache");
-const msgRetryCounterCache = new NodeCache();
+
 const fetch = require("node-fetch")
 const FileType = require('file-type')
 const _ = require('lodash')
@@ -37,10 +44,10 @@ const dbPath = './src/database.json';
 let db;
 if (urldb !== '') {
 db = new mongoDB(urldb);
-lolcatjs.fromString("[Berhasil tersambung ke database MongoDB]");
+console.log("[Berhasil tersambung ke database MongoDB]");
 } else {
 db = new JSONFile(dbPath);
-lolcatjs.fromString("[Berhasil tersambung ke database Lokal]");
+console.log(chalk.blue("[Berhasil tersambung ke database Lokal]"));
 }
 
 global.db = new Low(db);
@@ -57,9 +64,10 @@ global.db.READ = false;
 global.db.data = {
 users: {},
 chats: {},
-database: {},
 game: {},
+database: {},
 settings: {},
+setting: {},
 others: {},
 sticker: {},
 ...(global.db.data || {})
@@ -72,11 +80,9 @@ global.loadDatabase();
 
 process.on('uncaughtException', console.error);
 
-if (global.db && urldb !== '') {
-setInterval(async () => {
-if (global.db.data) await global.db.write();
-}, 30 * 1000);
-}
+if (global.db) setInterval(async () => {
+    if (global.db.data) await global.db.write()
+  }, 30 * 1000)
 
 
 
@@ -85,9 +91,9 @@ const folderName = "tmp";
 const folderPath = path.join(__dirname, folderName);
 if (!fs.existsSync(folderPath)) {
 fs.mkdirSync(folderPath);
-lolcatjs.fromString(`Folder '${folderName}' berhasil dibuat.`);
+//console.log(chalk.blue(`Folder '${folderName}' berhasil dibuat.`))
 } else {
-lolcatjs.fromString(`Folder '${folderName}' sudah ada.`);
+//console.log(chalk.blue((`Folder '${folderName}' sudah ada.`))
 }
 }
 createTmpFolder();
@@ -103,12 +109,15 @@ rl.question(text, resolve)
 })
 };
 
+const { version, isLatest } = fetchLatestBaileysVersion();
+const msgRetryCounterCache = new NodeCache();
 async function startBotz() {
 const { state, saveCreds } = await useMultiFileAuthState("session")
 const ptz = makeWASocket({
 logger: pino({ level: "silent" }),
 printQRInTerminal: !usePairingCode,
 auth: state,
+isLatest: true,
 msgRetryCounterCache,
 connectTimeoutMs: 60000,
 defaultQueryTimeoutMs: 0,
@@ -119,19 +128,115 @@ generateHighQualityLinkPreview: true,
 syncFullHistory: true,
 markOnlineOnConnect: true,
 browser: ["Ubuntu", "Chrome", "20.0.04"],
+getMessage: async (key) => {
+            if (store) {
+                const msg = await store.loadMessage(key.remoteJid, key.id)
+                return msg.message
+            }
+            return {
+                conversation: "Vee.. Headshot !!"
+            }
+        },
 });
-if(usePairingCode && !ptz.authState.creds.registered) {
-const phoneNumber = await question('Masukan Nomer Yang Aktif Awali Dengan 62 Recode :\n');
-const code = await ptz.requestPairingCode(phoneNumber.trim())
-console.log(`Pairing code: ${code}`)
 
+console.clear()
+cfont.say('<- Queen_Teni_Claire ->', {
+    font: 'chrome',
+    align: 'left',
+    colors: ['blue','white'],
+    background: 'white',
+    letterSpacing: 1,
+    lineHeight: 1,
+    space: false,
+    maxLength: '20',
+});
+ console.log(chalk.blue(` ‎ ‎   Queen_Teni_Claire- Multi Device • Ziyo Official\n ‎ ‎${chalk.white("Created Only One Dev, No have Team - Ziyo")}`))
+    console.log(chalk.white(' ‎ ‎_____________________________________\n'))
+if(usePairingCode && !ptz.authState.creds.registered) {
+console.clear()
+    cfont.say('<- Queen_Teni_Claire->', {
+    font: 'chrome',
+    align: 'left',
+    colors: ['blue','white'],
+    background: 'white',
+    letterSpacing: 1,
+    lineHeight: 1,
+    space: false,
+    maxLength: '20',
+});
+console.log(chalk.blue(` ‎ ‎  Queen_Teni_Claire- Multi Device\n ‎ ‎${chalk.white("Masukan Nomer Yang Aktif Awali Dengan 62")}`))
+   console.log(chalk.white(' ‎ ‎_____________________________________\n'))
+const phoneNumber = await question(" ")
+
+    
+const code = await ptz.requestPairingCode(phoneNumber.trim())
+
+
+    
+    
+    
+    
+    
+    
+console.log(chalk.blue(`${chalk.white("Pairing code:")} -[ ${chalk.white(code)} ]-`))
+    
+}
+
+async function getMessage(key){
+if (store) {
+const msg = await store.loadMessage(key.remoteJid, key.id)
+return msg?.message
+}
+return {
+conversation: "Vee!!! HEADSHOT!"
+}
 }
 
 store.bind(ptz.ev);
-
+ptz.ev.on('messages.update', async (chatUpdate) => {
+try {
+    for(const { key, update } of chatUpdate) {
+     let forpollup = chatUpdate[0].update.pollUpdates
+        if(forpollup) {
+            // Payload key
+            const pollCreation = await getMessage(key);
+            
+            // Jika itu dari bot Queen_Teni_Claire          
+            if(pollCreation && key.fromMe) {
+                const pollUpdate = await getAggregateVotesInPollMessage({
+                    message: pollCreation,
+                    pollUpdates: forpollup,
+                });
+                var toCmd = pollUpdate.filter(v => v.voters.length !== 0)[0]?.name;
+                if (toCmd == undefined) {
+                    return
+                } else {
+                    var prefCmd = "." + toCmd;
+                    await ptz.appenTextMessage(prefCmd, chatUpdate);
+                    //auto delet poll update
+                       ptz.sendMessage(key.remoteJid,
+			    {
+			        delete: {
+			            remoteJid: key.remoteJid,
+			            fromMe: true,
+			            id: key.id,
+			            participant: key.participant
+			        }
+			    })
+			    
+                }
+            }
+        }
+    }
+    } catch(e) {
+    console.log(e)
+    }
+    })
+    
 ptz.ev.on("messages.upsert", async (chatUpdate) => {
  try {
-const mek = chatUpdate.messages[0]
+
+  const mek = chatUpdate.messages[0]
 if (!mek.message) return
 mek.message = (Object.keys(mek.message)[0] === 'ephemeralMessage') ? mek.message.ephemeralMessage.message : mek.message
 if (mek.key && mek.key.remoteJid === 'status@broadcast'){
@@ -201,12 +306,23 @@ else if (reason === DisconnectReason.connectionClosed) { console.log("Connection
 else if (reason === DisconnectReason.connectionLost) { console.log("Connection Lost from Server, reconnecting..."); startBotz(); }
 else if (reason === DisconnectReason.connectionReplaced) { console.log("Connection Replaced, Another New Session Opened, Please Close Current Session First"); ptz.logout(); }
 else if (reason === DisconnectReason.loggedOut) { console.log(`Device Logged Out, Please Verifikasi Again And Run.`); ptz.logout(); }
-else if (reason === DisconnectReason.restartRequired) { console.log("Restart Required, Restarting..."); startBotz(); }
+else if (reason === DisconnectReason.restartRequired) { 
+    console.log("Restart Required, Restarting..."); 
+    console.clear()
+    startBotz(); 
+}
 else if (reason === DisconnectReason.timedOut) { console.log("Connection TimedOut, Reconnecting..."); startBotz(); }
 else ptz.end(`Unknown DisconnectReason: ${reason}|${connection}`)
 } if (update.connection == "open" || update.receivedPendingNotifications == "true") {
-lolcatjs.fromString('Connect, welcome owner!')
-lolcatjs.fromString(`Connected to = ` + JSON.stringify(ptz.user, null, 2))
+    //console.log(chalk.white(' ‎ ‎\n'))
+    let cxdf = JSON.stringify(ptz.user, null, 2)
+    let cxdf2 = cxdf.replace("{", '')
+    .replace(/"/g, '');
+    
+    const cxdf3 = cxdf2.replace("}", '')
+console.log(chalk.white(` ‎ ‎Connected, welcome owner ! ` + chalk.blueBright(cxdf3)))
+    
+    console.log(chalk.white(' ‎ ‎_____________________________________\n'))
 }} catch (err) {
 console.log('Error Di Connection.update '+err)
 }
@@ -233,6 +349,55 @@ return filename && fs.promises.unlink(filename)
 }
 }
 }
+
+
+		
+ptz.ev.on('group-participants.update', async (anu) => {
+    	if (global.welcome){
+try {
+let metadata = await ptz.groupMetadata(anu.id)
+let participants = anu.participants
+for (let num of participants) {
+try {
+ppuser = await ptz.profilePictureUrl(num, 'image')
+} catch (err) {
+ppuser = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
+}
+try {
+ppgroup = await ptz.profilePictureUrl(anu.id, 'image')
+} catch (err) {
+ppgroup = 'https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png?q=60'
+}
+async function kirimstik(linknya) {
+ptz.sendImageAsStickerso(anu.id, linknya, { packname: '\n'.repeat(999)})
+}
+
+//welcome simpel 🗿
+
+                if (anu.action == 'add') {
+                
+                await kirimstik("https://telegra.ph/file/5f5c76c5476c1844d0d50.jpg")
+                setTimeout(async () => {
+                ptz.sendMessage(anu.id, {text: "*_WELCOME - NEW - MEMBER_*"})
+                }, 1000)
+                
+                } else if (anu.action == 'remove') {
+                	
+                	await kirimstik("https://telegra.ph/file/15f8b4f7ec26256abf32c.jpg")
+                setTimeout(async () => {
+                ptz.sendMessage(anu.id, {text: "*_LEAVING - BYE - MEMBER_*"})
+                }, 1000)
+                }
+                }
+} catch (err) {
+console.log(err)
+}
+}
+})		
+    
+
+
+
 
 ptz.downloadMediaMessage = async (message) => {
 let mime = (message.msg || message).mimetype || ''
@@ -296,6 +461,8 @@ if (!m) m = await ptz.sendMessage(jid, { ...message, [mtype]: file }, { ...opt, 
 return m
 }
 }
+
+
 ptz.sendVideoAsSticker = async (jid, path, quoted, options = {}) => {
 let buff = Buffer.isBuffer(path) ? path : /^data:.*?\/.*?;base64,/i.test(path) ? Buffer.from(path.split`,`[1], 'base64') : /^https?:\/\//.test(path) ? await (await getBuffer(path)) : fs.existsSync(path) ? fs.readFileSync(path) : Buffer.alloc(0)
 let buffer
@@ -349,9 +516,28 @@ buffer = await imageToWebp(buff)
 await ptz.sendMessage(jid, { sticker: { url: buffer }, ...options }, { quoted })
 return buffer
 }
+
+ptz.sendImageAsStickerso = async (jid, path, options = {}, quoted) => {
+let buff = Buffer.isBuffer(path) ? path : /^data:.*?\/.*?;base64,/i.test(path) ? Buffer.from(path.split`,`[1], 'base64') : /^https?:\/\//.test(path) ? await (await getBuffer(path)) : fs.existsSync(path) ? fs.readFileSync(path) : Buffer.alloc(0)
+let buffer
+if (options && (options.packname || options.author)) {
+buffer = await writeExifImg(buff, options)
+} else {
+buffer = await imageToWebp(buff)
+}
+await ptz.sendMessage(jid, { sticker: { url: buffer }, ...options }, { quoted })
+return buffer
+}
+
 ptz.sendPoll = (jid, name = '', values = [], selectableCount = 1) => {
 return ptz.sendMessage(jid, {poll: { name, values, selectableCount }})
 };
+
+ptz.sendImage = async (jid, path, caption = '', quoted = '', options) => {
+let buffer = Buffer.isBuffer(path) ? path : /^data:.*?\/.*?;base64,/i.test(path) ? Buffer.from(path.split`,`[1], 'base64') : /^https?:\/\//.test(path) ? await (await getBuffer(path)) : fs.existsSync(path) ? fs.readFileSync(path) : Buffer.alloc(0)
+return await ptz.sendMessage(jid, { image: buffer, caption: caption, ...options }, { quoted })
+}
+
 ptz.sendText = (jid, text, quoted = '', options) => ptz.sendMessage(jid, { text: text, ...options }, { quoted })
 return ptz;
 }
