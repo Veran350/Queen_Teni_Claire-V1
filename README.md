@@ -1,7 +1,7 @@
 # QUEEN TENI_CLAIRE 
 <p align="centre">
   <a href="QUEEN TENI_CLAIRE MD
-    <img alt="QUEEN TENI_CLAIRE" height="150" src="./lib/assets/pk.jpg" old_src=https://i.imgur.com/hN0daS1.jpeg
+    <img alt="QUEEN TENI_CLAIRE" height="300" src="./lib/assets/pk.jpg" old_src=https://i.imgur.com/hN0daS1.jpeg
     </a>
 </p>
 
@@ -57,7 +57,7 @@ href='https://github.com/Veran350/Queen_Teni_claire/fork' target="_blank"><img a
 
 
 ## Deploy.
- [![nima](https://img.shields.io/badge/TENI_CLAIRE_deploy_on_panel-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dash.navocloud.com/register?ref=5HPoxmWQ?template=https://github.com/darkmakerofc/TENI_CLAIRE)
+ [![nima](https://img.shields.io/badge/TENI_CLAIRE_deploy_on_panel-430098?style=for-the-badge&logo=cloud&logoColor=white&buttcode=1n2i3m4a)](https://dash.navocloud.com/register?ref=5HPoxmWQ?template=https://github.com/darkmakerofc/TENI_CLAIRE)
   
    
 [![nima](https://img.shields.io/badge/TENI_CLAIRE_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
