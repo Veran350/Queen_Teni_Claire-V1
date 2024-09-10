@@ -1,7 +1,7 @@
 # QUEEN TENI_CLAIRE 
 <p align="centre">
   <a href="QUEEN TENI_CLAIRE MD
-    <img alt="QUEEN TENI_CLAIRE" height="250" src="./lib/assets/pk.jpg" old_src=https://i.imgur.com/hN0daS1.jpeg
+    <img alt="QUEEN TENI_CLAIRE" height="150" src="./lib/assets/pk.jpg" old_src=https://i.imgur.com/hN0daS1.jpeg
     </a>
 </p>
 
