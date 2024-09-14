@@ -1,0 +1,11 @@
+{
+  "battleRequests": {
+    "6283117190494@s.whatsapp.net": "6283123448708@s.whatsapp.net"
+  },
+  "ongoingBattles": {
+    "6283123448708@s.whatsapp.net": {
+      "challengedId": "6283117190494@s.whatsapp.net",
+      "status": "accepted"
+    }
+  }
+}
