@@ -1,0 +1,502 @@
+[
+  {
+    "soal": "Aktinium",
+    "jawaban": "Ac"
+  },
+  {
+    "soal": "Aluminium",
+    "jawaban": "Al"
+  },
+  {
+    "soal": "Antimon",
+    "jawaban": "Sb"
+  },
+  {
+    "soal": "Perak",
+    "jawaban": "Ag"
+  },
+  {
+    "soal": "Argon",
+    "jawaban": "Ar"
+  },
+  {
+    "soal": "Arsenik",
+    "jawaban": "As"
+  },
+  {
+    "soal": "Astatin",
+    "jawaban": "At"
+  },
+  {
+    "soal": "Emas",
+    "jawaban": "Au"
+  },
+  {
+    "soal": "Barium",
+    "jawaban": "Ba"
+  },
+  {
+    "soal": "Belerang",
+    "jawaban": "S"
+  },
+  {
+    "soal": "Berkelium",
+    "jawaban": "Bk"
+  },
+  {
+    "soal": "Berilium",
+    "jawaban": "Be"
+  },
+  {
+    "soal": "Besi",
+    "jawaban": "Fe"
+  },
+  {
+    "soal": "Bismut",
+    "jawaban": "Bi"
+  },
+  {
+    "soal": "Bohrium",
+    "jawaban": "Bh"
+  },
+  {
+    "soal": "Boron",
+    "jawaban": "B"
+  },
+  {
+    "soal": "Brom",
+    "jawaban": "Br"
+  },
+  {
+    "soal": "Tembaga",
+    "jawaban": "Cu"
+  },
+  {
+    "soal": "Darmstadtium",
+    "jawaban": "Ds"
+  },
+  {
+    "soal": "Dubnium",
+    "jawaban": "Db"
+  },
+  {
+    "soal": "Disprosium",
+    "jawaban": "Dy"
+  },
+  {
+    "soal": "Einsteinium",
+    "jawaban": "Es"
+  },
+  {
+    "soal": "Emas",
+    "jawaban": "Au"
+  },
+  {
+    "soal": "Erbium",
+    "jawaban": "Er"
+  },
+  {
+    "soal": "Europium",
+    "jawaban": "Eu"
+  },
+  {
+    "soal": "Fermium",
+    "jawaban": "Fm"
+  },
+  {
+    "soal": "Besi",
+    "jawaban": "Fe"
+  },
+  {
+    "soal": "Flerovium",
+    "jawaban": "Fl"
+  },
+  {
+    "soal": "Fluor",
+    "jawaban": "F"
+  },
+  {
+    "soal": "Fosfor",
+    "jawaban": "P"
+  },
+  {
+    "soal": "Fransium",
+    "jawaban": "Fr"
+  },
+  {
+    "soal": "Gadolinium",
+    "jawaban": "Gd"
+  },
+  {
+    "soal": "Galium",
+    "jawaban": "Ga"
+  },
+  {
+    "soal": "Germanium",
+    "jawaban": "Ge"
+  },
+  {
+    "soal": "Hafnium",
+    "jawaban": "Hf"
+  },
+  {
+    "soal": "Hassium",
+    "jawaban": "Hs"
+  },
+  {
+    "soal": "Helium",
+    "jawaban": "He"
+  },
+  {
+    "soal": "Hidrogen",
+    "jawaban": "H"
+  },
+  {
+    "soal": "Holmium",
+    "jawaban": "Ho"
+  },
+  {
+    "soal": "Raksa",
+    "jawaban": "Hg"
+  },
+  {
+    "soal": "Indium",
+    "jawaban": "In"
+  },
+  {
+    "soal": "Yodium",
+    "jawaban": "I"
+  },
+  {
+    "soal": "Iridium",
+    "jawaban": "Ir"
+  },
+  {
+    "soal": "Iterbium",
+    "jawaban": "Yb"
+  },
+  {
+    "soal": "Itrium",
+    "jawaban": "Y"
+  },
+  {
+    "soal": "Kadmium",
+    "jawaban": "Cd"
+  },
+  {
+    "soal": "Kalium",
+    "jawaban": "K"
+  },
+  {
+    "soal": "Kalsium",
+    "jawaban": "Ca"
+  },
+  {
+    "soal": "Kalifornium",
+    "jawaban": "Cf"
+  },
+  {
+    "soal": "Karbon",
+    "jawaban": "C"
+  },
+  {
+    "soal": "Klor",
+    "jawaban": "Cl"
+  },
+  {
+    "soal": "Krom",
+    "jawaban": "Cr"
+  },
+  {
+    "soal": "Kobalt",
+    "jawaban": "Co"
+  },
+  {
+    "soal": "Kopernisium",
+    "jawaban": "Cn"
+  },
+  {
+    "soal": "Kurium",
+    "jawaban": "Cm"
+  },
+  {
+    "soal": "Kripton",
+    "jawaban": "Kr"
+  },
+  {
+    "soal": "Lantanum",
+    "jawaban": "La"
+  },
+  {
+    "soal": "Lawrensium",
+    "jawaban": "Lr"
+  },
+  {
+    "soal": "Litium",
+    "jawaban": "Li"
+  },
+  {
+    "soal": "Livermorium",
+    "jawaban": "Lv"
+  },
+  {
+    "soal": "Lutetium",
+    "jawaban": "Lu"
+  },
+  {
+    "soal": "Magnesium",
+    "jawaban": "Mg"
+  },
+  {
+    "soal": "Mangan",
+    "jawaban": "Mn"
+  },
+  {
+    "soal": "Meitnerium",
+    "jawaban": "Mt"
+  },
+  {
+    "soal": "Mendelevium",
+    "jawaban": "Md"
+  },
+  {
+    "soal": "Molibden",
+    "jawaban": "Mo"
+  },
+  {
+    "soal": "Natrium",
+    "jawaban": "Na"
+  },
+  {
+    "soal": "Neodimium",
+    "jawaban": "Nd"
+  },
+  {
+    "soal": "Neon",
+    "jawaban": "Ne"
+  },
+  {
+    "soal": "Neptunium",
+    "jawaban": "Np"
+  },
+  {
+    "soal": "Nikel",
+    "jawaban": "Ni"
+  },
+  {
+    "soal": "Niobium",
+    "jawaban": "Nb"
+  },
+  {
+    "soal": "Nitrogen",
+    "jawaban": "N"
+  },
+  {
+    "soal": "Nobelium",
+    "jawaban": "No"
+  },
+  {
+    "soal": "Osmium",
+    "jawaban": "Os"
+  },
+  {
+    "soal": "Oksigen",
+    "jawaban": "O"
+  },
+  {
+    "soal": "Paladium",
+    "jawaban": "Pd"
+  },
+  {
+    "soal": "Perak",
+    "jawaban": "Ag"
+  },
+  {
+    "soal": "Timbal",
+    "jawaban": "Pb"
+  },
+  {
+    "soal": "Kalium",
+    "jawaban": "K"
+  },
+  {
+    "soal": "Natrium",
+    "jawaban": "Na"
+  },
+  {
+    "soal": "Platina",
+    "jawaban": "Pt"
+  },
+  {
+    "soal": "Plutonium",
+    "jawaban": "Pu"
+  },
+  {
+    "soal": "Polonium",
+    "jawaban": "Po"
+  },
+  {
+    "soal": "Praseodimium",
+    "jawaban": "Pr"
+  },
+  {
+    "soal": "Prometium",
+    "jawaban": "Pm"
+  },
+  {
+    "soal": "Protaktinium",
+    "jawaban": "Pa"
+  },
+  {
+    "soal": "Radium",
+    "jawaban": "Ra"
+  },
+  {
+    "soal": "Radon",
+    "jawaban": "Rn"
+  },
+  {
+    "soal": "Renium",
+    "jawaban": "Re"
+  },
+  {
+    "soal": "Rodium",
+    "jawaban": "Rh"
+  },
+  {
+    "soal": "Roentgenium",
+    "jawaban": "Rg"
+  },
+  {
+    "soal": "Rubidium",
+    "jawaban": "Rb"
+  },
+  {
+    "soal": "Rutenium",
+    "jawaban": "Ru"
+  },
+  {
+    "soal": "Rutherfordium",
+    "jawaban": "Rf"
+  },
+  {
+    "soal": "Samarium",
+    "jawaban": "Sm"
+  },
+  {
+    "soal": "Skandium",
+    "jawaban": "Sc"
+  },
+  {
+    "soal": "Seaborgium",
+    "jawaban": "Sg"
+  },
+  {
+    "soal": "Selenium",
+    "jawaban": "Se"
+  },
+  {
+    "soal": "Serium",
+    "jawaban": "Ce"
+  },
+  {
+    "soal": "Sesium",
+    "jawaban": "Cs"
+  },
+  {
+    "soal": "Silikon",
+    "jawaban": "Si"
+  },
+  {
+    "soal": "Seng",
+    "jawaban": "Zn"
+  },
+  {
+    "soal": "Timah",
+    "jawaban": "Sn"
+  },
+  {
+    "soal": "Antimon",
+    "jawaban": "Sb"
+  },
+  {
+    "soal": "Strontium",
+    "jawaban": "Sr"
+  },
+  {
+    "soal": "Talium",
+    "jawaban": "Tl"
+  },
+  {
+    "soal": "Tantalum",
+    "jawaban": "Ta"
+  },
+  {
+    "soal": "Teknetium",
+    "jawaban": "Tc"
+  },
+  {
+    "soal": "Telurium",
+    "jawaban": "Te"
+  },
+  {
+    "soal": "Tembaga",
+    "jawaban": "Cu"
+  },
+  {
+    "soal": "Terbium",
+    "jawaban": "Tb"
+  },
+  {
+    "soal": "Timah",
+    "jawaban": "Sn"
+  },
+  {
+    "soal": "Timbal",
+    "jawaban": "Pb"
+  },
+  {
+    "soal": "Titanium",
+    "jawaban": "Ti"
+  },
+  {
+    "soal": "Torium",
+    "jawaban": "Th"
+  },
+  {
+    "soal": "Tulium",
+    "jawaban": "Tm"
+  },
+  {
+    "soal": "Wolfram",
+    "jawaban": "W"
+  },
+  {
+    "soal": "Oganeson",
+    "jawaban": "Og"
+  },
+  {
+    "soal": "Moscovium",
+    "jawaban": "Mc"
+  },
+  {
+    "soal": "Nihonium",
+    "jawaban": "Nh"
+  },
+  {
+    "soal": "Uranium",
+    "jawaban": "U"
+  },
+  {
+    "soal": "Vanadium",
+    "jawaban": "V"
+  },
+  {
+    "soal": "Xenon",
+    "jawaban": "Xe"
+  },
+  {
+    "soal": "Zirkonium",
+    "jawaban": "Zr"
+  }
+]
