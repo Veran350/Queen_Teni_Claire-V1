@@ -57,7 +57,7 @@ href='https://github.com/Veran350/Queen_Teni_claire-V1/fork' target="_blank"><im
 
 
 ## Deploy.
- [![nima](https://img.shields.io/badge/TENI_CLAIRE_deploy_on_panel-430098?style=for-the-badge&logo=cloud&logoColor=white&buttcode=1n2i3m4a)](https://dash.navocloud.com/register?ref=5HPoxmWQ?template=https://github.com/darkmakerofc/TENICLAIRE)
+ [![nima](https://img.shields.io/badge/TENICLAIRE_deploy_on_panel-430098?style=for-the-badge&logo=cloud&logoColor=white&buttcode=1n2i3m4a)](https://dash.navocloud.com/register?ref=5HPoxmWQ?template=https://github.com/darkmakerofc/TENICLAIRE)
   
    
 [![nima](https://img.shields.io/badge/TENICLAIRE_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
@@ -77,8 +77,7 @@ href='https://github.com/Veran350/Queen_Teni_claire-V1/fork' target="_blank"><im
 ## Community Support
 
 If you need help, Join queen Teni_claire WhatsApp channel
-[(https://whatsapp.com/channel/0029VajIDgjDZ4LVnxfB1Z2s)]
-</br>
+[![NIMAYT](https://img.shields.io/badge/FOLLOW%20TENICLAIRE%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VajIDgjDZ4LVnxfB1Z2s)</br>
 
 
 
