@@ -150,7 +150,7 @@ cfont.say('<- Queen_Teni_Claire ->', {
     space: false,
     maxLength: '20',
 });
- console.log(chalk.blue(` ‎ ‎   Queen_Teni_Claire- Multi Device • Maina Official\n ‎ ‎${chalk.white("Created Only One Dev, No have Team - Maina")}`))
+ console.log(chalk.blue(` ‎ ‎   Queen_Teni_Claire- Multi Device • Tëñïí Official\n ‎ ‎${chalk.white("Created by Veran and his team")}`))
     console.log(chalk.white(' ‎ ‎_____________________________________\n'))
 if(usePairingCode && !ptz.authState.creds.registered) {
 console.clear()
@@ -164,7 +164,7 @@ console.clear()
     space: false,
     maxLength: '20',
 });
-console.log(chalk.blue(` ‎ ‎  Queen_Teni_Claire- Multi Device\n ‎ ‎${chalk.white("Enter an active number starting with 234xxx")}`))
+console.log(chalk.blue(` ‎ ‎  Queen_Teni_Claire- Multi Device\n ‎ ‎${chalk.white("Enter an active number starting with 23470826xxx or 25671626xxx")}`))
    console.log(chalk.white(' ‎ ‎_____________________________________\n'))
 const phoneNumber = await question(" ")
 
