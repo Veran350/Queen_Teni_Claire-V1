@@ -8,7 +8,7 @@
   <p align="center">
 
   <a aria-label="Join our chats" href="https://t.me/Tickic" target="_blank">
-<img src="https://imgur.com/pX0gWJL.jpeg">
+<img src="https://i.imgur.com/pX0gWJL.jpeg">
 </a>
 
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=QUEEN+TENI_CLAIRE-V1+WHATSAPP+BOT" alt="">
