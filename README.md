@@ -78,7 +78,7 @@ href='https://github.com/Veran350/Queen_Teni_claire-V1/fork' target="_blank"><im
 
 If you need help, Join queen Teni_claire WhatsApp channel
 
-[![NIMAYT](https://img.shields.io/badge/FOLLOW%20TENICLAIRE%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VajIDgjDZ4LVnxfB1Z2s)</br>
+[![NIMAYT](https://img.shields.io/badge/CHANNEL%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VajIDgjDZ4LVnxfB1Z2s)</br>
 
 
 
