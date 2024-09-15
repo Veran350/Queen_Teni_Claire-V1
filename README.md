@@ -34,7 +34,7 @@ Contact Developer on [telgram](https://t.me/Tickic).
 [WhatsApp](https://wa.link/ybhee3)
 
 ### `VERSION : 1.0.0 - V`
- `Last Update : ` _2024-08-31_ | [Update Info](/new-update.md)
+ `Last Update : ` _2024-09-15_ | [Update Info](/new-update.md)
 
 #### Give One star For Queen Teni_claire and [Follow Me](https://whatsapp.com/channel/0029VajIDgjDZ4LVnxfB1Z2s) 
 
