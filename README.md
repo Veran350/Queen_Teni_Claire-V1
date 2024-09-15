@@ -66,7 +66,7 @@ href='https://github.com/Veran350/Queen_Teni_claire-V1/fork' target="_blank"><im
 
 ## 🔗 Contact Links
 [![NIMAYT](https://img.shields.io/badge/CONTACT%20TENICLAIRE%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/ybhee3)</br>
-[![tg](https://img.shields.io/badge/TENICLAIRE-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)]( https://t.me/Tickic)
+[![tg](https://img.shields.io/badge/CONTACT%20TENICLAIRE%200N%20TELEGRAM-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)]( https://t.me/Tickic)
 </br>
 
 - *Queen_Teni_claire is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
@@ -76,7 +76,7 @@ href='https://github.com/Veran350/Queen_Teni_claire-V1/fork' target="_blank"><im
 
 ## Community Support
 
-If you need help, Join queen Teni_claire WhatsApp channel
+If you need help, Join Queen Teni_claire WhatsApp channel
 
 [![NIMAYT](https://img.shields.io/badge/CHANNEL%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VajIDgjDZ4LVnxfB1Z2s)</br>
 
