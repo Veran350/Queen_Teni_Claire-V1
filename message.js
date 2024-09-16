@@ -1412,28 +1412,8 @@ let answer = response.data.data.answer;
             "wait, wait le",
             "just a moment...",
             "or... btr",
-            "okay",
-            "the most popular team 😂, btr co..",
-            "AI AI captain..",
-            "Do you want to steal Zio's knowledge? You can download it,"
-            "Be careful, there's something going wrong, please download it,"
             "Queen_Teni_Claire is downloading",
-            "okay le",
-            "Yes yes yes, I'll download it, le",
-            "what is this?, Queen_Teni_Claire download yes..",
-            "oh",
-            "Okay, there's a link, Tenii download",
-            "Gaskeun",
-            "Cow butt, the king of butt",
-            "SUBSCRIBE YT Dgf ziyo, wait a minute...",
-            "process",
-            "Tenii download",
-            "DOWNLOAD with scraper...",
-            "scraping...",
-            "bokep?",
-            "Yeah",
-            "Wait a minute, Sis, if not, I'll black out the GC,"
-            "What is this?, I can't wait to download it"])
+            "okay le"]
             
             m.reply("`[ Queen_Teni_Claire]` : " + lucukrek)
             
@@ -1442,8 +1422,7 @@ if (prompt.match('vt.tiktok.com')) {
 try {
 
 let res = await tiktok2(`${spychat}`)
-				ptz.sendMessage(m.chat, { video: { url: res.no_watermark }, fileName: `tiktok.mp4`, mimetype: 'video/mp4' }).then(() => {
-				
+				ptz.sendMessage(m.chat, { video: { url: res.no_watermark }, fileName: `tiktok.mp4`, mimetype: 'video/mp4' }).then(() => {				
                     ptz.sendMessage(m.chat, { audio: { url: res.music }, fileName: `tiktok.mp3`, mimetype: 'audio/mp4' })
 			})
 			} catch (err) {
@@ -1490,26 +1469,6 @@ downloadyt(spychat, "mp3")
             "wait, wait le",
             "just a moment...",
             "or... btr",
-            "okay",
-            "the most popular team 😂, btr co..",
-            "AI AI captain..",
-            "Do you want to steal Zio's knowledge? You can download it,"
-            "Be careful, there's something going wrong, please download it,"
-            "Queen_Teni_Claire is downloading",
-            "okay le",
-            "Yes yes yes, I'll download it, le",
-            "what is this?, Queen_Teni_Claire download yes..",
-            "oh",
-            "Okay, there's a link, Tenii download",
-            "Gaskeun",
-            "Cow butt, the king of butt",
-            "SUBSCRIBE YT Dgf ziyo, wait a minute...",
-            "process",
-            "Tenii download",
-            "DOWNLOAD with scraper...",
-            "scraping...",
-            "bokep?",
-            "Yeah",
             "Wait a minute, Sis, if not, I'll black out the GC,"
             "What is this?, I can't wait to download it"])
             
