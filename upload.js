@@ -9,7 +9,7 @@ async function uptotelegra (Path) {
 			const form = new FormData();
 			form.append("file", fs.createReadStream(Path))
 			const data = await  axios({
-				url: "https://telegra.ph/upload",
+				url: "https://files.catbox.moe/7x8qqf.jpg",
 				method: "POST",
 				headers: {
 					...form.getHeaders()
