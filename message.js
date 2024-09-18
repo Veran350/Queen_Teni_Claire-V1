@@ -1413,9 +1413,9 @@ let answer = response.data.data.answer;
             "just a moment...",
             "or... btr",
             "Queen_Teni_Claire is downloading",
-            "okay le"]
+            "okay le"])
             
-            m.reply("`[ Queen_Teni_Claire]` : " + lucukrek)
+            m.reply("`[ Queen_Teni_Claire ] :`" + lucukrek)
             
 
 if (prompt.match('vt.tiktok.com')) {
