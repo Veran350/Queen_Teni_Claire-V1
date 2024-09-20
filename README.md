@@ -16,7 +16,7 @@
     <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Veranmaina-red.svg?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/Veran350?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Veran350?color=red&style=flat-square"></a>   
-<a href="https://github.com/Veran350/Queen_Teni_claire-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Veran350/Queen_Teni_claire?color=white&style=flat-square"></a>
+<a href="https://github.com/Veran350/Queen_Teni_Claire-V1/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Veran350/Queen_Teni_claire?color=white&style=flat-square"></a>
 <a href="https://github.com/Veran350/Queen_Teni_claire-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Veran350/Queen_Teni_claire-V1?color=yellow&style=flat-square"></a>
 <a href="https://github.com/Veran350/Queen_Teni_claire-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Veran350/Queen_Teni_claire-V1?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Veran350/Queen_Teni_claire-V1"><img title="Size" src="https://img.shields.io/github/repo-size/Queen Teni_claire-V1?style=flat-square&color=darkred"></a>
