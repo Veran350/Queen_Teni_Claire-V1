@@ -1,11 +1,10 @@
 # QUEEN TENI_CLAIRE-V1 
-<p align="centre">
-  <a href="QUEEN TENI_CLAIRE-V1 MD
-    <img alt="QUEEN TENI_CLAIRE-V1" height="300" src="./lib/assets/pk.jpg" old_src=https://i.imgur.com/hN0daS1.jpeg
-    </a>
-</p>
-
-  <p align="center">
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ QUEEN_+TENI_CLAIRE+V1★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+VERAN;RELEASED+DATE+20%2F6%9F2024." alt="Typing SVG" /></a>
+ </p>
+<p align="center">
 
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=QUEEN+TENI_CLAIRE-V1+WHATSAPP+BOT+CREATED+BY+VERAN" alt="Typing SVG" /></a>
 <p align="center">
