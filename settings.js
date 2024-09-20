@@ -44,7 +44,7 @@ global.socialm = "GitHub: Veran350" //ur github or insta name
 global.location = "lagos, abuja, ogun state" //ur location
 
 //new
-global.botname = 'QUEEN_TENI_CLAIRE-MD' //ur bot name
+global.botname = 'QUEEN_TENI_CLAIRE-V1' //ur bot name
 global.ownernumber = ['2347082664317'] //ur owner number, dont add more than one
 global.ownername = 'VERAN' //ur owner name
 global.websitex = "https://github.com/Veran350"
