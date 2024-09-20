@@ -12,11 +12,11 @@
 <a href="https://github.com/Veran350?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Veran350?color=red&style=flat-square"></a>   
 <a href="https://github.com/Veran350/Queen_Teni_Claire-V1/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Veran350/Queen_Teni_claire?color=blue&style=flat-square"></a>
 <a href="https://github.com/Veran350/Queen_Teni_Claire-V1/forks"><img title="Forks" src="https://img.shields.io/github/forks/Veran350/Queen_Teni_Claire-V1?color=yellow&style=flat-square"></a>
-<a href="https://github.com/Veran350/Queen_Teni_Claire-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Veran350/Queen_Teni_Claire-V1?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Veran350/Queen_Teni_Claire-V1/tree/main/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Veran350/Queen_Teni_Claire-V1?label=Watchers&color=blue&style=flat-square"></a>
 <a 
-href="https://github.com/Veran350/Queen_Teni_Claire-V1/"><img title="Size" src="https://img.shields.io/github/repo-size/Veran350/Queen-Teni_Claire-V1?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Veran350/Queen_Teni_Claire-V1/hit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Veran350/Queen_Teni_Claire-V1/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-green.svg"></a>&nbsp;&nbsp;
+href="https://github.com/Veran350/Queen_Teni_Claire-V1/tree/main/"><img title="Size" src="https://img.shields.io/github/repo-size/Veran350/Queen-Teni_Claire-V1?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Veran350/Queen_Teni_Claire-V1/tree/main/hit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Veran350/Queen_Teni_Claire-V1/tree/main/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 </a>
 </div>
