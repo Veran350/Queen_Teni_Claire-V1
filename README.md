@@ -7,14 +7,11 @@
 
   <p align="center">
 
-  <a aria-label="Join our chats" href="https://t.me/Tickic" target="_blank">
-<img src="https://files.catbox.moe/yy939p.jpg">
-</a>
-
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=QUEEN+TENI_CLAIRE-V1+WHATSAPP+BOT" alt="">
-</p>
-    <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Veranmaina-red.svg?style=for-the-badge&logo=github"></a>
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=QUEEN+TENI_CLAIRE-V1+WHATSAPP+BOT+CREATED+BY+VERAN" alt="Typing SVG" /></a>
+<p
+<img src="https://files.catbox.moe/yy939p.jpg"/>
+<p align="center"><img src="https://profile-counter.glitch.me/{Veran350}/count.svg" alt="Veran350 :: Visitor's Count" /></p>
+<p align="center">
 <a href="https://github.com/Veran350?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Veran350?color=red&style=flat-square"></a>   
 <a href="https://github.com/Veran350/Queen_Teni_Claire-V1/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Veran350/Queen_Teni_claire?color=blue&style=flat-square"></a>
 <a href="https://github.com/Veran350/Queen_Teni_Claire-V1/fork"><img title="Forks" src="https://img.shields.io/github/forks/Veran350/Queen_Teni_Claire-V1?color=yellow&style=flat-square"></a>
