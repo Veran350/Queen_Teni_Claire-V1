@@ -215,7 +215,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
 				          if (!('badword' in group)) group.badword = false
                   if (!('antiforeignnum' in group)) group.antiforeignnum = false
                   if (!('antibot' in group)) group.antibot = false
-                  if (!('antiviewonce' in group)) group.antiviewonce = false
+                  if (!('antivv' in group)) group.antiviewonce = false
                   if (!('antispam' in group)) group.antispam = false
                   if (!('antimedia' in group)) group.media = false
                   if (!('antivirtex' in group)) group.antivirtex = false
@@ -238,7 +238,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
 				  badword: false,
                   antiforeignnum: false,
                   antibot: false,
-                  antiviewonce: false,
+                  antivv: false,
                   antispam: false,
                   antivirtex: false,
                   antimedia: false,
@@ -449,7 +449,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
     }
    }
    
-		//antiviewonce
+		//antivv
     if ( db.groups[m.chat].antiviewonce && m.isGroup && m.mtype == "viewOnceMessageV2") {
         let val = { ...m }
         let msg = val.message?.viewOnceMessage?.message || val.message?.viewOnceMessageV2?.message
@@ -15563,7 +15563,7 @@ await XliconBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 }
             }
             break 
-			case 'antiviewonce':{
+			case 'antivv':{
 		         if (!m.isGroup) return XliconStickGroup()
 if (!m.isBotAdmin) return XliconStickBotAdmin()
 if (!m.isAdmin && !XliconTheCreator) return XliconStickAdmin()
@@ -19999,7 +19999,7 @@ const axios = require('axios');
 ╰──────❍`
 if (typemenu === 'v1') {
                     XliconBotInc.sendMessage(m.chat, {
-                        image: fs.readFileSync('./XliconMedia/theme/Xlicon-Video.mp4'),
+                        image: fs.readFileSync('./XliconMedia/theme/XliconPic.jpg'),
                         caption: xmenu_oh
                     }, {
                         quoted: m
@@ -20012,7 +20012,7 @@ if (typemenu === 'v1') {
                                 showAdAttribution: true,
                                 title: botname,
                                 body: ownername,
-                                thumbnail: fs.readFileSync('./XliconMedia/theme/Xlicon-Video.mp4'),
+                                thumbnail: fs.readFileSync('./XliconMedia/theme/XliconPic.jpg'),
                                 sourceUrl: wagc,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -20076,7 +20076,7 @@ if (typemenu === 'v1') {
                                 showAdAttribution: true,
                                 title: botname,
                                 body: ownername,
-                                thumbnail: fs.readFileSync('./XliconMedia/theme/Xlicon-Video.mp4'),
+                                thumbnail: fs.readFileSync('./XliconMedia/theme/XliconPic.jpg'),
                                 sourceUrl: wagc,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -20094,7 +20094,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://files.catbox.moe/8rvcqb.mp4',
+      thumbnailUrl: 'https://i.ibb.co/y0nLDSB/XLICON-IMG.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -20113,13 +20113,13 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363232303807350@newsletter",
+newsletterJid: "100000000000000000@newsletter",
 },
 externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://files.catbox.moe/8rvcqb.mp4",
+thumbnailUrl: "https://i.ibb.co/y0nLDSB/XLICON-IMG.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -20515,7 +20515,7 @@ let xmenu_oh = `
 ╰─┬────❍
 ╭─┴❍「 *Group* 」❍
 │${setv} ${prefix}antibot ∆
-│${setv} ${prefix}antiviewonce∆
+│${setv} ${prefix}antivv∆
 │${setv} ${prefix}readviewonce∆
 │${setv} ${prefix}welcome ∆
 │${setv} ${prefix}adminevent ∆
@@ -21882,7 +21882,7 @@ let xmenu_oh = `
 ╰─┬────❍
 ╭─┴❍「 *Group* 」❍
 │${setv} ${prefix}antibot ∆
-│${setv} ${prefix}antiviewonce ∆
+│${setv} ${prefix}antivv ∆
 │${setv} ${prefix}readviewonce ∆
 │${setv} ${prefix}welcome ∆
 │${setv} ${prefix}adminevent ∆
