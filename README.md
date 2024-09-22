@@ -52,10 +52,7 @@ href='https://github.com/Veran350/Queen_Teni_claire-V1/fork' target="_blank"><im
 
 
 ## Deploy.
- [![nima](https://img.shields.io/badge/TENICLAIRE_deploy_on_panel-430098?style=for-the-badge&logo=cloud&logoColor=white&buttcode=1n2i3m4a)](https://dash.navocloud.com/register?ref=5HPoxmWQ?template=https://github.com/darkmakerofc/TENICLAIRE)
-  
-   
-[![nima](https://img.shields.io/badge/TENICLAIRE_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
+ [![nima](https://img.shields.io/badge/TENICLAIRE_deploy_on_panel-430098?style=for-the-badge&logo=cloud&logoColor=white&buttcode=1n2i3m4a)](https://optiklink.com/index?template=https://github.com/darkmakerofc/TENICLAIRE)
    
 
 
