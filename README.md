@@ -77,5 +77,6 @@ If you need help, Join our WhatsApp channel
 ### Credits to:
 `much thanks to
 - [`TOXXIC Md`](https://github.com/Toxic1239) For advices and loyalty
+- [`Dare-1-0`](https://github.com/Dare-1-0) for assisting in bot development 
 
 
