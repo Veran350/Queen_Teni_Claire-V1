@@ -68,7 +68,11 @@ href='https://github.com/Veran350/Queen_Teni_claire-V1/fork' target="_blank"><im
 
 JOIN VERANMAINA WHAtSAPP GROUP FOR MORE UPDATES
 [![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/Ed3aK6mymYd2G1HFom0OyZ))
+ 
+## Community and Support
 
+FOLLOW TENI_CLAIRE TELEGRAM CHANNEL FOR MORE UPDATES
+[![JOIN TELEGRAM CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://t.me/Queen_Teni_Claire))
 
 
 ### Credits to:
