@@ -48,6 +48,8 @@ href='https://github.com/Veran350/Queen_Teni_claire-V1/fork' target="_blank"><im
 
 
 ## Deploy.
+[![nima](https://img.shields.io/badge/YOUTUBETUTORIAL-430098?style=for-the-badge&logo=Youtube&logored=white&red)](https://optiklink.com/index?template=https://github.com/darkmakerofc/TENICLAIRE)
+
  [![nima](https://img.shields.io/badge/TENICLAIRE_deploy_on_panel-430098?style=for-the-badge&logo=Discord&logoColor=white&buttcode=1n2i3m4a)](https://optiklink.com/index?template=https://github.com/darkmakerofc/TENICLAIRE)
 
 1. Fork the repo
@@ -60,7 +62,38 @@ href='https://github.com/Veran350/Queen_Teni_claire-V1/fork' target="_blank"><im
 - Note: I recommend using starter + or higher for a fast bot
 
   [![nima](https://img.shields.io/badge/YOUTUBETUTORIAL-430098?style=for-the-badge&logo=Youtube&logored=white&red)](https://optiklink.com/index?template=https://github.com/darkmakerofc/TENICLAIRE)
-   
+
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [Queen_Teni_Claire-V1](https://github.com/Veran350/Queen_Teni_Claire-V1) ON ANY TERMINAL
+
+```
+sudo apt -y update && sudo apt -y upgrade
+```
+```
+sudo apt -y install git ffmpeg curl
+```
+```
+curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
+```
+```
+sudo -E bash nodesource_setup.sh
+```
+```
+sudo apt-get install -y nodejs
+```
+```
+sudo npm install -g yarn
+```
+```
+sudo yarn global add pm2
+```
+```
+git clone https://github.com/type-your-username-here/Queen_Teni_Claire-V1
+```
+```
+cd Queen_Teni_Claire-V1
+yarn install 
+npm start
+```
 
 
 ## 🔗 Contact Links
