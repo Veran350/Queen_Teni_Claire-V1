@@ -61,7 +61,6 @@ href='https://github.com/Veran350/Queen_Teni_claire-V1/fork' target="_blank"><im
    
 - Note: I recommend using starter + or higher for a fast bot
 
-  [![nima](https://img.shields.io/badge/YOUTUBETUTORIAL-430098?style=for-the-badge&logo=Youtube&logored=white&red)](https://optiklink.com/index?template=https://github.com/darkmakerofc/TENICLAIRE)
 
 #### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [Queen_Teni_Claire-V1](https://github.com/Veran350/Queen_Teni_Claire-V1) ON ANY TERMINAL
 
