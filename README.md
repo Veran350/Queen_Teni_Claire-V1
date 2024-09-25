@@ -72,7 +72,7 @@ JOIN VERANMAINA WHAtSAPP GROUP FOR MORE UPDATES
 ## Community and Support
 
 FOLLOW TENI_CLAIRE TELEGRAM CHANNEL FOR MORE UPDATES
-[![JOIN TELEGRAM CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-Telegram.png)](https://t.me/Queen_Teni_Claire))
+[![JOIN TELEGRAM CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-discord.png)](https://t.me/Queen_Teni_Claire))
 
 
 ### Credits to:
