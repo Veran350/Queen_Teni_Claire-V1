@@ -68,11 +68,10 @@ href='https://github.com/Veran350/Queen_Teni_claire-V1/fork' target="_blank"><im
 - *Use Queen_Teni_claire at your own risk by keeping this warning in mind.*
   
 
-## Community Support
+## Community and Support
 
-If you need help, Join our WhatsApp group 
-
-[![NIMAYT](https://img.shields.io/badge/WHATSAPP%20GROUP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Ed3aK6mymYd2G1HFom0OyZ)</br>
+JOIN VERANMAINA WHAtSAPP GROUP FOR MORE UPDATES
+[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/Ed3aK6mymYd2G1HFom0OyZ))
 
 
 
