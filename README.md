@@ -1,4 +1,4 @@
-# QUEEN TENI_CLAIRE-V1 
+ # QUEEN TENI_CLAIRE-V1 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
@@ -54,7 +54,7 @@ href='https://github.com/Veran350/Queen_Teni_claire-V1/fork' target="_blank"><im
 ## Deploy.
  [![nima](https://img.shields.io/badge/TENICLAIRE_deploy_on_panel-430098?style=for-the-badge&logo=cloud&logoColor=white&buttcode=1n2i3m4a)](https://optiklink.com/index?template=https://github.com/darkmakerofc/TENICLAIRE)
 
-  [![nima](https://img.shields.io/badge/YOUTUBETUTORIAL-#FF0000?style=for-the-badge&logo=Youtube&logored=white&red)](https://optiklink.com/index?template=https://github.com/darkmakerofc/TENICLAIRE)
+  [![nima](https://img.shields.io/badge/YOUTUBETUTORIAL-430098?style=for-the-badge&logo=Youtube&logored=white&red)](https://optiklink.com/index?template=https://github.com/darkmakerofc/TENICLAIRE)
    
 
 
