@@ -72,13 +72,13 @@ href='https://github.com/Veran350/Queen_Teni_claire-V1/fork' target="_blank"><im
 
 If you need help, Join our WhatsApp group 
 
-[![NIMAYT](https://img.shields.io/badge/WHATSAPP%20CHANNEL-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Ed3aK6mymYd2G1HFom0OyZ)</br>
+[![NIMAYT](https://img.shields.io/badge/WHATSAPP%20GROUP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Ed3aK6mymYd2G1HFom0OyZ)</br>
 
 
 
 ### Credits to:
 `much thanks to
-- [`TOXXIC Md`](https://github.com/Toxic1239) For advices and loyalty
+- [`TOXXIC Md`](https://github.com/Toxic1239) For assisting in bot development and loyalty
 - [`Dare-1-0`](https://github.com/Dare-1-0) for assisting in bot development 
 
 
