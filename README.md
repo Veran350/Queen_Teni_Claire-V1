@@ -52,14 +52,14 @@ href='https://github.com/Veran350/Queen_Teni_claire-V1/fork' target="_blank"><im
 
 
 ## Deploy.
- [![nima](https://img.shields.io/badge/TENICLAIRE_deploy_on_panel-430098?style=for-the-badge&logo=cloud&logoColor=white&buttcode=1n2i3m4a)](https://optiklink.com/index?template=https://github.com/darkmakerofc/TENICLAIRE)
+ [![nima](https://img.shields.io/badge/TENICLAIRE_deploy_on_panel-430098?style=for-the-badge&logo=Discord&logoColor=white&buttcode=1n2i3m4a)](https://optiklink.com/index?template=https://github.com/darkmakerofc/TENICLAIRE)
 
   [![nima](https://img.shields.io/badge/YOUTUBETUTORIAL-430098?style=for-the-badge&logo=Youtube&logored=white&red)](https://optiklink.com/index?template=https://github.com/darkmakerofc/TENICLAIRE)
    
 
 
 ## 🔗 Contact Links
-[![NIMAYT](https://img.shields.io/badge/CONTACT%20OWNER%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/ybhee3)</br>
+[![NIMAYT](https://img.shields.io/badge/CONTACT%20OWNER%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me2347082664317)</br>
 [![tg](https://img.shields.io/badge/CONTACT%20OWNER%200N%20TELEGRAM-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)]( https://t.me/Tickic)
 </br>
 
