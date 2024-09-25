@@ -50,6 +50,15 @@ href='https://github.com/Veran350/Queen_Teni_claire-V1/fork' target="_blank"><im
 ## Deploy.
  [![nima](https://img.shields.io/badge/TENICLAIRE_deploy_on_panel-430098?style=for-the-badge&logo=Discord&logoColor=white&buttcode=1n2i3m4a)](https://optiklink.com/index?template=https://github.com/darkmakerofc/TENICLAIRE)
 
+1. Fork the repo
+2. Edit then Download your forked repo zip
+3. 🖥 Go to panel and upload your Sc.
+4. Extract or move it to a directory (container).
+5. ⌨ Use the following code to move into a container: "../"
+6. Then go to the console and press Start.
+   
+- Note: I recommend using starter + or higher for a fast bot
+
   [![nima](https://img.shields.io/badge/YOUTUBETUTORIAL-430098?style=for-the-badge&logo=Youtube&logored=white&red)](https://optiklink.com/index?template=https://github.com/darkmakerofc/TENICLAIRE)
    
 
