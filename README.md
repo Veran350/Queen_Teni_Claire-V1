@@ -59,7 +59,7 @@ href='https://github.com/Veran350/Queen_Teni_claire-V1/fork' target="_blank"><im
 
 
 ## 🔗 Contact Links
-[![NIMAYT](https://img.shields.io/badge/CONTACT%20OWNER%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me2347082664317)</br>
+[![NIMAYT](https://img.shields.io/badge/CONTACT%20OWNER%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2347082664317)</br>
 [![tg](https://img.shields.io/badge/CONTACT%20OWNER%200N%20TELEGRAM-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)]( https://t.me/Tickic)
 </br>
 
