@@ -48,7 +48,7 @@ href='https://github.com/Veran350/Queen_Teni_claire-V1/fork' target="_blank"><im
 
 
 ## Deployment on panel.
-<a href="https://youtu.be/8Y8cE68vg5A"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/WpfdClSeQyg" /><br>
+<a href="https://youtu.be/8Y8cE68vg5A"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/a9f-CYlcj5o?si=rxDi9tPnt2mCfZfT" /><br>
 
  [![nima](https://img.shields.io/badge/DEPLOYONOPTLINK-430098?style=for-the-badge&logo=Discord&logoColor=white&buttcode=1n2i3m4a)](https://optiklink.com/index?template=https://github.com/darkmakerofc/TENICLAIRE)
 
