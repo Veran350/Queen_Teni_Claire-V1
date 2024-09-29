@@ -18,7 +18,7 @@
 </div>
 
 <h2 align="center"> ⚠️ NOTE  </h2>
-## QUEEN_ANITA-V2 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
+## QUEEN_TENI_CLAIRE-V1 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
 
 ### Please Read !
 QUEEN_TENI_CLAIRE-V1, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before.QUEEN TENI_CLAIRE bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖.We are not responsible for any problems caused by your use of this
