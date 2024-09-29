@@ -121,7 +121,7 @@ FOLLOW TENI_CLAIRE TELEGRAM CHANNEL FOR MORE UPDATES
 
 ### Credits to:
 `much thanks to
-- [`TOXXIC Md`](https://github.com/Toxic1239) For assisting in bot development and loyalty
+- [`TOXXIC Md`](https://github.com/Toxic1239) For assisting in bot development and case
 - [`Dare-1-0`](https://github.com/Dare-1-0) for assisting in bot development 
 
 
