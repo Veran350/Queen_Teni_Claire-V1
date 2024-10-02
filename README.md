@@ -6,7 +6,7 @@
  </p>
 <p align="center">
  </p>
-<img src="https://i.imgur.com/4d4ayF9.jpeg"/> 
+<img src="https://files.catbox.moe/tlcl3i.jpg"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{Veran350}/count.svg" alt="Veran350 :: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/Veran350?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Veran350?color=red&style=flat-square"></a>   
