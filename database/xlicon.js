@@ -1,3 +1,3 @@
 {
-	"name": "B.M.B"
+	"name": "V.E.R.A.N"
 }                        
