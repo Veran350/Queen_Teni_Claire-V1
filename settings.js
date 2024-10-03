@@ -16,22 +16,22 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : XLICON-V4-MD
+//  * @project_name : QUEEN_TENI_CLAIRE-V1
 //  * @author : salmanytofficial
 //  * @youtube : https://www.youtube.com/@s4salmanyt
-//  * @description : XLICON-V4 ,A Multi-functional whatsapp user bot.
+//  * @description : Queen_Teni_Claire-V1,A Multi-functional whatsapp user bot.
 //*
 //*
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
 //Instagram: ahmmikun
-//Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
-//WhatsApp: +923184070915
+//Telegram: t.me/tickie
+//GitHub: @Veran350
+//WhatsApp: +2347082664317
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 //   * Created By Github: DGXeon.
 //   * Credit To Xeon
-//   * © 2024 XLICON-V3-MD.
+//   * © 2024 QUEEN_TENI_CLAIRE-V1.
 // ⛥┌┤
 // */
 
