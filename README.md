@@ -65,39 +65,6 @@ href='https://github.com/Veran350/Queen_Teni_claire-V1/fork' target="_blank"><im
 - Note: I recommend using starter + or higher for a fast bot
 
 
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [Queen_Teni_Claire-V1](https://github.com/Veran350/Queen_Teni_Claire-V1) ON ANY TERMINAL
-
-```
-sudo apt -y update && sudo apt -y upgrade
-```
-```
-sudo apt -y install git ffmpeg curl
-```
-```
-curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
-```
-```
-sudo -E bash nodesource_setup.sh
-```
-```
-sudo apt-get install -y nodejs
-```
-```
-sudo npm install -g yarn
-```
-```
-sudo yarn global add pm2
-```
-```
-git clone https://github.com/type-your-username-here/Queen_Teni_Claire-V1
-```
-```
-cd Queen_Teni_Claire-V1
-yarn install 
-npm start
-```
-
-
 ## 🔗 Contact Links
 [![NIMAYT](https://img.shields.io/badge/CONTACT%20OWNER%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2347082664317)</br>
 [![tg](https://img.shields.io/badge/CONTACT%20OWNER%200N%20TELEGRAM-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)]( https://t.me/Tickic)
